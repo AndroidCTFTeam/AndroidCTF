@@ -1,0 +1,3 @@
+AndroidCTF
+
+SHA256 hash of the ZIP file: 61b9f9d2b413243f9fd2b7181a74bc76dc86e6f8508dd61c05905b61245f7f2d
